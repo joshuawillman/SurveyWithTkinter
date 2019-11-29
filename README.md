@@ -9,18 +9,21 @@ Please give me a shout out if you decide to use the program in your work. I'd re
 The questions used on the survey are in Mandarin (due to the survey being given here in China). I stopped translating the buttons in order to upload it on GitHub. Check the comments in the code to see which parts you need to change in order to use the project yourself. 
 
 The survey consists of four different parts (each part separated by a dialog box to inform the user).
+
+Below are some example screenshots of the survey.
+
 <p align="center">
-<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image1.png" width="400" height="100" title="Game Title"> </p>
+<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image1.png" width="400" height="250" title="Game Title"> </p>
 <p align="center">
-<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image2.png" width="240" height="360" title="Game Screen"></p>
+<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image2.png" width="240" height="200" title="Game Screen"></p>
 <p align="center">
-<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image3.png" width="240" height="360" title="Space Shooter"> </p>
+<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image3.png" width="240" height="200" title="Space Shooter"> </p>
 <p align="center">
-<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image4.png" width="240" height="360" title="Space Shooter"> </p>
+<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image4.png" width="240" height="200" title="Space Shooter"> </p>
 <p align="center">
-<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image5.png" width="240" height="360" title="Space Shooter"> </p>
+<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image5.png" width="240" height="200" title="Space Shooter"> </p>
 <p align="center">
-<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image6.png" width="240" height="360" title="Space Shooter"> </p>
+<img src="https://github.com/joshuawillman/SurveyWithTkinter/blob/master/images/image6.png" width="240" height="200" title="Space Shooter"> </p>
 
 Once the user reaches the end, the answers from the questions are written to a csv file. 
 
