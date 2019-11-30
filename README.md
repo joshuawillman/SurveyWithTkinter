@@ -37,7 +37,7 @@ The game was created with `Python` and `Tkinter` (which already comes installed 
 
 Clone the repo:
 ```
-git clone https://github.com/joshuawillman/The-Lonely-Shooter
+git clone https://github.com/joshuawillman/SurveyWithTkinter
 ```
 
 ## Author
