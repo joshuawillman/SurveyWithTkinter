@@ -42,7 +42,7 @@ git clone https://github.com/joshuawillman/SurveyWithTkinter
 
 ## Author
 
-* **Joshua Willman** - *Blog* - [RedHuli](http://redhulimachinelearning.com)
+* **Joshua Willman** - *Blog* - [RedHuli](https://redhuli.io)
 For more details about the survey and its features, check out the blog post in the link above.
 
 ## Acknowledgments
